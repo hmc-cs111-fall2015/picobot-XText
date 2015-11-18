@@ -177,7 +177,7 @@ Here's how to add the validator to your IDE:
    1. In the project called `edu.hmc.cs.picobot`, open the file 
    `src/edu.hmc.cs.picobot.validator/PicobotValidator.xtend`
    1. Replace the contents of this file with the 
-   [validation code][PicobotValidator.
+   [validation code][PicobotValidator].
    1. Re-generate and re-launch your IDE.
    1. Modify your example file to introduce errors that the validator can find.
 
