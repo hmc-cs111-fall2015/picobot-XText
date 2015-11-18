@@ -144,6 +144,9 @@ the first time:
 
 ## Code generation
 
+_Note: you might want to also refer to the [second XText tutorial][Tutorial2], as
+you work on this part._
+
 We'll now add a code generator. This generate will translate a Picobot `.pb` 
 file into a [Graphviz][Graphviz] `.dot` file. The translation happens every time
 a user saves a `.pb` file in your IDE. If the user has Graphviz installed on
@@ -162,6 +165,9 @@ To add this feature to your language:
    `src-gen/empty.dot`. Open it and take a look!
 
 ## Validation
+
+_Note: you might want to also refer to the [third XText tutorial][Tutorial3], as
+you work on this part._
 
 We'll now add some code validation. In particular, we'll write a plugin to your
 IDE that checks a Picobot program for the following problems:
