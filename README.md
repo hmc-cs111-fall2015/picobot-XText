@@ -96,7 +96,7 @@ update site to install ANTLR** (as described on the XText download page).
 ### Creating an initial version of the IDE
 
 _Note: you might want to also refer to the [first XText tutorial][Tutorial1], as
-you work on this part.
+you work on this part._
 
    1. Launch your version of Eclipse that has XText installed.
    1. Create a new "XText Project"
