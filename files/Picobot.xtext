@@ -1,4 +1,4 @@
-grammar edu.cs.hmc.picobot.Picobot with org.eclipse.xtext.common.Terminals
+grammar edu.hmc.cs.picobot.Picobot with org.eclipse.xtext.common.Terminals
 
 generate picobot "http://www.cs.edu/hmc/picobot/Picobot"
 
