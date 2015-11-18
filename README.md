@@ -12,7 +12,7 @@
 [ExampleFile]: /files/empty.pb
 [PicobotGrammar]: /files/Picobot.xtext
 [GraphvizGenerator]: /files/PicobotGenerator.xtend
-[GraphvizGenerator]: /files/PicobotValidator.xtend
+[PicobotValidator]: /files/PicobotValidator.xtend
 
 [XTextDocs]: https://eclipse.org/Xtext/documentation/index.html
 [XTextExamples]: https://github.com/xtext/seven-languages-xtext
