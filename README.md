@@ -32,8 +32,8 @@ The IDE that we build for Picobot has the following features:
    + validation, which warns programmers of potential problems with their
    program (e.g., unreachable states)
 
-This project essentially follows three XText tutorials ([1][Tutorials1], 
-[2][Tutorials2], [3][Tutorials3]), specialized for Picobot.
+This project essentially follows three XText tutorials ([1][Tutorial1], 
+[2][Tutorial2], [3][Tutorial3]), specialized for Picobot.
 
 The rest of this README file contains:
 
